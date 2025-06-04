@@ -1,0 +1,7 @@
+C:\Users\ksehmi\source\repos\studentdatabase\studentdatabase\bin\Debug\studentdatabase.exe.config
+C:\Users\ksehmi\source\repos\studentdatabase\studentdatabase\bin\Debug\studentdatabase.exe
+C:\Users\ksehmi\source\repos\studentdatabase\studentdatabase\bin\Debug\studentdatabase.pdb
+C:\Users\ksehmi\source\repos\studentdatabase\studentdatabase\obj\Debug\studentdatabase.csproj.AssemblyReference.cache
+C:\Users\ksehmi\source\repos\studentdatabase\studentdatabase\obj\Debug\studentdatabase.csproj.CoreCompileInputs.cache
+C:\Users\ksehmi\source\repos\studentdatabase\studentdatabase\obj\Debug\studentdatabase.exe
+C:\Users\ksehmi\source\repos\studentdatabase\studentdatabase\obj\Debug\studentdatabase.pdb
